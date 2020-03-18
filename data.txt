@@ -1,0 +1,3 @@
+	am: siir
+	age: olb
+	goob colour: black
