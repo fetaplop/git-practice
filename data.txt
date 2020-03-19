@@ -1,3 +1,4 @@
 	am: siir
 	age: olb
 	goob colour: black
+	best animal: catsybin
